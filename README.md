@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**FacundoZto/FacundoZto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer
 
-Here are some ideas to get you started:
+- Mi nombre es Facundo Zerbato, a fines de 2021 comencé a estudiar programación a través del bootcamp de Henry
+- El cual me permitió conocer y manejar las siguientes herramientas:
+ **HTML, CSS, JavaScript, React Js, Redux, Node Js, Express, Sequelize, PostgreSQL, Git, GitHub**, entre otras.
+- Trato de aplicar mi conocimiento, en proyectos para afianzar conceptos adquiridos y poder además implementar y aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+📫 Contacto:
+- **facundozerbato@outlook.com**
+- **[Perfil de Linkedin](https://www.linkedin.com/in/facundozerbato/)**
+
+
