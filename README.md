@@ -8,7 +8,7 @@
 - Trato de aplicar mi conocimiento, en proyectos para afianzar conceptos adquiridos y poder además implementar y aprender nuevas tecnologías.
 
   
-📫 Contacto:
+📫
 - **facundozerbato@outlook.com**
 - **[Perfil de Linkedin](https://www.linkedin.com/in/facundozerbato/)**
 
