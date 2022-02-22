@@ -1,8 +1,6 @@
-<img src="https://github.com/FacundoZto/FacundoZto/blob/main/dino.gif" />
-
 ### Hi there 👋
 
-### Full Stack Web Developer
+#### Full Stack Web Developer
 
 - Mi nombre es Facundo Zerbato, a fines de 2021 comencé a estudiar programación a través del bootcamp de Henry
 - El cual me permitió conocer y manejar las siguientes herramientas:
