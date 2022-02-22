@@ -1,3 +1,5 @@
+<img src="https://github.com/FacundoZto/FacundoZto/blob/main/dino.gif" />
+
 ### Hi there 👋
 
 ### Full Stack Web Developer
