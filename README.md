@@ -1,4 +1,6 @@
-<img src="https://github.com/FacundoZto/FacundoZto/blob/main/banner.png">
+<a href="https://github.com/FacundoZto">
+<img src="https://github.com/FacundoZto/FacundoZto/blob/main/banner.png"/>
+</a>
 
 ### Hi there 👋
 
