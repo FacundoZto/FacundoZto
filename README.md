@@ -1,6 +1,4 @@
-<a href="https://github.com/FacundoZto">
-<img src="https://github.com/FacundoZto/FacundoZto/blob/main/banner.png"/>
-</a>
+![https://github.com/FacundoZto](https://github.com/FacundoZto/FacundoZto/blob/main/banner.png)
 
 ### Hi there 👋
 
