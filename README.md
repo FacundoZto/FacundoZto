@@ -11,11 +11,11 @@
 
 ## :pushpin: Mi primer proyecto
 <p>
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/landind1.png?raw=true" align="left" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/home.png?raw=true" align="center" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/paginado.png?raw=true" align="left" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/detail.png?raw=true" align="left" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/create.png?raw=true" align="center" widht='100px' height='200px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/landind1.png?raw=true" align="left" widht='90px' height='180px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/home.png?raw=true" align="center" widht='90px' height='180px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/paginado.png?raw=true" align="left" widht='90px' height='180px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/detail.png?raw=true" align="left" widht='90px' height='180px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/create.png?raw=true" align="center" widht='90px' height='180px' />
 </p>
   
 📫
