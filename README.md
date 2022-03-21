@@ -1,4 +1,4 @@
-![https://github.com/FacundoZto](https://github.com/FacundoZto/FacundoZto/blob/main/banner.png)
+<!-- ![https://github.com/FacundoZto](https://github.com/FacundoZto/FacundoZto/blob/main/banner.png) -->
 
 ### Hi there 👋
 
