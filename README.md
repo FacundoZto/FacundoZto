@@ -6,16 +6,16 @@
 
 - A fines de 2021 comencé a estudiar programación a través del Bootcamp de SoyHenry.
 - El cual me permitió conocer y manejar las siguientes herramientas:
- **HTML, CSS, JavaScript, React Js, Redux, Node Js, Express, Sequelize, PostgreSQL, Git, GitHub**, entre otras.
+ **HTML, CSS, JavaScript, React Js, React Native, Redux, Node Js, Express, Sequelize, PostgreSQL, Git, GitHub**, entre otras.
 - Trato de aplicar mi conocimiento, en proyectos para afianzar conceptos adquiridos y poder además implementar y aprender nuevas tecnologías.
 
-## :pushpin: My first proyect
+## :pushpin: Mi primer proyecto
 <p>
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/landind1.png?raw=true" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/home.png?raw=true" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/paginado.png?raw=true" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/detail.png?raw=true" widht='100px' height='200px' />
-  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/create.png?raw=true" widht='100px' height='200px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/landind1.png?raw=true" align="left" widht='100px' height='200px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/home.png?raw=true" align="center" widht='100px' height='200px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/paginado.png?raw=true" align="left" widht='100px' height='200px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/detail.png?raw=true" align="left" widht='100px' height='200px' />
+  <img src="https://github.com/FacundoZto/FacundoZto/blob/main/create.png?raw=true" align="center" widht='100px' height='200px' />
 </p>
   
 📫
