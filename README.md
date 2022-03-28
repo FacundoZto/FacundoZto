@@ -10,16 +10,16 @@
 - Trato de aplicar mi conocimiento en proyectos para afianzar conceptos adquiridos y poder además implementar y aprender nuevas tecnologías.
 
 #### :pushpin: **[Mi primer proyecto](https://github.com/FacundoZto/Proyecto-Dogs)**
-<p>
+
   <img src="https://github.com/FacundoZto/FacundoZto/blob/main/landind1.png?raw=true" align="left" widht='90px' height='160px' />
   <img src="https://github.com/FacundoZto/FacundoZto/blob/main/home.png?raw=true" align="center" widht='90px' height='160px' />
   <img src="https://github.com/FacundoZto/FacundoZto/blob/main/paginado.png?raw=true" align="left" widht='90px' height='160px' />
   <img src="https://github.com/FacundoZto/FacundoZto/blob/main/detail.png?raw=true" align="left" widht='90px' height='160px' />
   <img src="https://github.com/FacundoZto/FacundoZto/blob/main/create.png?raw=true" align="center" widht='90px' height='160px' />
-</p>
-  
-📫
-- **facundozerbato@outlook.com**
+
+  #
+
+📫 **facundozerbato@outlook.com**
 - **[Perfil de Linkedin](https://www.linkedin.com/in/facundozerbato/)**
 
 
