@@ -19,7 +19,7 @@
 
   #
 
-📫 **facundozerbato@outlook.com**
+📫 **zerbatofacundo@gmail.com**
 - **[Perfil de Linkedin](https://www.linkedin.com/in/facundozerbato/)**
 
 
