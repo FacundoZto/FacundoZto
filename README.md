@@ -4,7 +4,7 @@
 
 #### Full Stack Developer
 
-- A fines de 2021 comencé a estudiar programación a través de Henry Bootcamp.
+- Comencé a estudiar programación a través de Henry Bootcamp orientado al Desarrollo Full Stack.
 - El cual me permitió conocer y manejar las siguientes herramientas:
  **HTML, CSS, JavaScript, React, NextJs, Redux, NodeJs, Express, SQL, PostgreSQL, Jest, React Testing Library, Git, GitHub**, entre otras.
 - Trato de aplicar mi conocimiento en proyectos para afianzar conceptos adquiridos y poder además implementar y aprender nuevas tecnologías.
